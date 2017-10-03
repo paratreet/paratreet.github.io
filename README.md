@@ -1,2 +1,2 @@
 # ParaTreet.github.io
-ParaTreet Web site
+ParaTreet Website
